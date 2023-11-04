@@ -6,6 +6,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=RENAME+BOT+!;CREATED+BY+NOBI+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
+## Deploy To Heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/JEGAA1/Rename-Bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+
  ━━━━━━━━━━━━━━━━━
 
 ## 🏷 Environment Variables
